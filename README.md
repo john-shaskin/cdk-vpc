@@ -1,7 +1,5 @@
 # Provision a VPC with CDK
 
----
-
 This little app is intended to allow you to provision your own VPC via CDK.
 
 More to come as this develops.
